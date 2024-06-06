@@ -3,7 +3,7 @@
 ```
   1.python
   2.Selenium套件
-  3.chromedriver(搭配當前google chrome版本下載，連結在最下面)
+  3.chromedriver(搭配當前google chrome版本下載，連結在最下面) !!!chromedriver.exe要和bot.py放在同一空間中!!!
 ```
 
 ## 2.說明：
