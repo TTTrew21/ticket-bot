@@ -10,7 +10,6 @@
   在```driver.get("")```函數中的引號內放上連結。
   使用f12編輯介面在網頁中找到該欄位的"xpath"並使用函數```driver.find_element("xpath", "該欄位的xpath")```按照執行順序執行程式。
   ### examples:
-    ```
     acc = driver.find_element("xpath",'//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input')
     acc.clear()
     acc.send_keys("account")
@@ -18,7 +17,6 @@
     password = driver.find_element("xpath", '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input')
     password.clear()
     password.send_keys("password")
-    ```
   
 
 ## 3.動作函數：
