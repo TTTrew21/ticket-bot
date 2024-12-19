@@ -1,4 +1,5 @@
 # 搶票機器人
+by 吳禹叡
 
 ## 1.說明：
   在```driver.get("")```函數中的引號內放上連結。
@@ -31,3 +32,5 @@
 參考資料來源(本網站提供的時間較舊，本人有查詢資料修改版本出現的問題)：https://tonidata.medium.com/%E8%87%AA%E5%8B%95%E6%90%B6%E7%A5%A8%E7%A8%8B%E5%BC%8F-%E7%94%A8python%E6%90%B6%E7%86%B1%E8%B3%A3%E5%95%86%E5%93%81-1f542f50c395
 
 Chromedriver: https://developer.chrome.com/docs/chromedriver/downloads
+註: Chromedriver需要是跟Google Chrome版本一致。
+
